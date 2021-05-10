@@ -15,6 +15,10 @@ body {
   color: #212121;
 }
 
+
+
+
+.current,
 .navigation-list:hover,
 .navigation-list:focus {
   color: var(--accent-color);
